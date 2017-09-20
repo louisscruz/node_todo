@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "express": "^4.15.4",
+    "shakespeare-insult": "^1.0.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
